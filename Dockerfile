@@ -1,4 +1,4 @@
-FROM node:5-wheezy
+FROM node:4-wheezy
 
 MAINTAINER Nicola Molinari <emmenko@gmail.com>
 
